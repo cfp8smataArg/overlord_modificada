@@ -5,9 +5,11 @@ filename: 07_calibracion.md
 --- 
 # Calibración del equipo
 
-La calibración general de la impresora 3D está dividida en dos partes: calibración de la cama y ajuste de altura Z.
+La calibración general de la impresora 3D está dividida en tres partes: ajuste de altura de resortes, calibración de la cama y ajuste de altura Z.
 
 Para hacer la calibración integral del equipo se entiende que las verificaciones explicadas en la [Puesta en marcha](./06_puesta_marcha.html) fueron realizadas con éxito.
+
+## Ajuste de altura de resortes
 
 ## Calibración de la cama
 
@@ -37,12 +39,12 @@ Cada punto recorrido se ubicará en ```Z = 004.000mm``` y requiere determinar la
 
 ## Ajuste de altura en Z
 
-1. Presionar el encoder. Ir a _Configuración -> Movimiento -> Llevar al origen_. Al elegir esta opción, cada brazo asociado a cada columna buscará su origen.
+1. Presionar el encoder. Ir a _Movimiento -> Llevar al origen_. Al elegir esta opción, cada brazo asociado a cada columna buscará su origen.
 
     ![cal9](./assets/img/cal9.jpg)
     ![cal10](./assets/img/cal10.jpg)  
 
-2. Ahora, se debe corregir la altura en Z. Para esto ir a _Configuración -> Movimiento -> Mover ejes -> Mover Z_. Con el encoder, bajar el pico hasta que se llegue a una distancia óptima entre el pico y la cama caliente.
+2. Ahora, se debe corregir la altura en Z. Para esto ir a _Movimiento -> Mover ejes -> Mover Z_. Con el encoder, bajar el pico hasta que se llegue a una distancia óptima entre el pico y la cama caliente.
 
     ![cal11](./assets/img/cal11.jpg)
     ![cal12](./assets/img/cal12.jpg) 
@@ -54,8 +56,10 @@ Cada punto recorrido se ubicará en ```Z = 004.000mm``` y requiere determinar la
     ![cal15](./assets/img/cal15.jpg)
 
 4. Con el valor de Z anterior, debemos corregir la altura de Z que se encuentra guardada en el sistema. Para esto ir a _Configuración -> Calibración Delta -> Configuración Delta -> Altura_.
-    + Si el **VALOR** registrado en el punto anterior es **positivo** se debe hacer este cálculo: **(Z actual - VALOR)** y guardar el resultado.
-    + Si el **VALOR** registrado en el punto anterior es **negativo** se debe hacer **(Z actual + VALOR)** y guardar el resultado.
+    + Si el **VALOR** registrado en el punto anterior es **positivo** se debe hacer este cálculo: **(Z actual - VALOR)** y guardar el resultado (ejemplo: si Z=279.45 y VALOR=0.05, entonces: Z corregido = 279.45 - 0.05 = 279.4).
+    + Si el **VALOR** registrado en el punto anterior es **negativo** se debe hacer **(Z actual + VALOR)** y guardar el resultado (ejemplo: si Z=279.45 y VALOR=-0.05, entonces: Z corregido = 279.45 + (-0.05) = 279.45 - 0.05 = 279.4).
+
+    ![cal15b](./assets/img/cal15a.jpg)
 
 5. Como último paso, ir a  _Configuración -> Guardar EEPROM_
 
