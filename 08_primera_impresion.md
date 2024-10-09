@@ -20,6 +20,8 @@ RECOMENDACION: En caso de atasco, nunca remover el tramo inferior del tubo de te
 
 # Demo
 
-En el siguiente [link](https://drive.google.com/file/d/11Ifzz-wFGjBvnHKF1wgRUvqJJxLNcwyR/view?usp=sharing) se accede a un video demostración de la impresora 3D en funcionamiento. La impresión que se muestra en el video se realiza a 90 mm/s.
+En el siguiente [link](https://drive.google.com/file/d/11Ifzz-wFGjBvnHKF1wgRUvqJJxLNcwyR/view?usp=sharing) se accede a un video demostración de la impresora 3D en funcionamiento. La impresión que se muestra en el video se realiza a 90 mm/s. A continuación, se muestral algunas imágenes de la impresión terminada.
+![impresion](./assets/img/impresion.jpeg)
+![impresion2](./assets/img/impresion2.jpg)
 
 [![calibracion](./assets/img/boton7.jpg)](./07_calibracion.html) [![Agradecimientos](./assets/img/boton9.jpg)](./09_agradecimientos.html)
