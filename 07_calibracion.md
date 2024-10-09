@@ -5,11 +5,9 @@ filename: 07_calibracion.md
 --- 
 # Calibración del equipo
 
-La calibración general de la impresora 3D está dividida en tres partes: ajuste de altura de resortes, calibración de la cama y ajuste de altura Z.
+La calibración general de la impresora 3D está dividida en dos partes: calibración de la cama y ajuste de altura Z.
 
 Para hacer la calibración integral del equipo se entiende que las verificaciones explicadas en la [Puesta en marcha](./06_puesta_marcha.html) fueron realizadas con éxito.
-
-## Ajuste de altura de resortes
 
 ## Calibración de la cama
 
