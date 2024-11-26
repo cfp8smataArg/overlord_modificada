@@ -4,7 +4,7 @@ layout: default
 filename: 01_motivacion.md
 --- 
 # Motivaciones y objetivos
-Desde el año 2019, el [Instituto Nacional de Educación Tecnológica (INET)](https://www.inet.edu.ar/) le entregó a distintas instituciones educativas técnicas de todo el país cerca de 6000 impresoras 3D [Overlord Pro+](https://www.dfrobot.com/product-1298.html) con la intención de fomentar el diseño y la impresión 3D.
+Desde el año 2019, el [Instituto Nacional de Educación Tecnológica (INET)](https://www.inet.edu.ar/) entregó a distintas instituciones educativas técnicas de todo el país cerca de 6000 impresoras 3D [Overlord Pro+](https://www.dfrobot.com/product-1298.html) con la intención de fomentar el diseño y la impresión 3D.
 
 En el año 2020, la llegada de la pandemia intensificó el uso de este tipo de equipos para la impresión de vinchas para máscaras de protección contra el virus del COVID-19. La presencia de las impresoras 3D Overlord Pro+ en las escuelas generó que muchos establecimientos fueran centros de producción de vinchas a lo largo y a lo ancho del país.
 
@@ -18,7 +18,7 @@ El proyecto [RepRap](https://reprap.org/wiki/RepRap) propone el desarrollo de im
 
 >Una impresora 3D es una herramienta de trabajo y estudio invaluable, la cual dentro de una institución educativa o laboratorio tecnológico, permite estimular creatividad de forma ilimitada.
 
-_"¿Cómo podemos hacer para que todas las impresoras Overlord Pro+ puedan ser lo más “genéricas” posible?"_ _¿Como podemos hacer para que estas impresoras 3D puedan funcionar con insumos que puedan adquirirse en el mercado local a un bajo costo?_ _¿Cómo podemos hacer para que estas impresoras 3D se manejen como la mayoría de las impresoras 3D de uso doméstico a nivel mundial?_ Esto se preguntaron el Esp. Ing. Nicolás Vargas Alice y Freddy Fores, especialistas en diseño e impresión 3D, robótica y electrónica, quienes ademas son docentes del [Centro de Formación Profesional Nº8 - SMATA](https://centro8smata.org.ar/) e INET.
+_"¿Cómo podemos hacer para que la impresora 3D Overlord Pro+ pueda ser lo más “genérica” posible?"_ _¿Como podemos hacer para que estas impresoras 3D puedan funcionar con insumos que puedan adquirirse en el mercado local a un bajo costo?_ _¿Cómo podemos hacer para que estas impresoras 3D se manejen como la mayoría de las impresoras 3D de uso doméstico a nivel mundial?_ Esto se preguntaron el Esp. Ing. Nicolás Vargas Alice y Freddy Fores, especialistas en diseño e impresión 3D, robótica y electrónica, quienes ademas son docentes del [Centro de Formación Profesional Nº8 - SMATA](https://centro8smata.org.ar/) e INET.
 
 |:-----------------------------------------:|:------------------------------------------:|
 |![foto Nicolás](./assets/img/foto_nico.jpg)|![foto Freddy](./assets/img/foto_freddy.jpg)|
@@ -26,9 +26,7 @@ _"¿Cómo podemos hacer para que todas las impresoras Overlord Pro+ puedan ser l
 |      Esp. Ing. Nicolás Vargas Alice       |                     Freddy Forés           |
 
 
-Desde inicios del año 2022 Nicolás y Freddy comenzaron a pensar las respuestas a todas estas preguntas. La presencia de ambos en el INET hizo que al proyecto se sumara Lucas Sbarra, quien trabaja en el desarrollo de proyectos tecnológicos vinculados a la impresión 3D dentro del INET.
-El equipo de trabajo comenzó a estudiar el funcionamiento de la impresora 3D, sus partes, la información disponible por parte del fabricante, etc. Luego de una etapa de estudio a investigación, se llegaron a las siguientes conclusiones:
-
+Desde inicios del año 2022 Nicolás y Freddy comenzaron a pensar las respuestas a todas estas preguntas. El equipo de trabajo comenzó a estudiar el funcionamiento de la impresora 3D, sus partes, la información disponible por parte del fabricante, etc. Luego de una etapa de estudio a investigación, se llegaron a las siguientes conclusiones:
 
 * La impresora 3D presenta una excelente estructura mecánica.
 * Las partes de la impresora 3D eran extremadamente costosas y muy complejas de conseguir en el mercado argentino.

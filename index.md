@@ -7,7 +7,7 @@ En este sitio se encuentra el procedimiento detallado para realizar una posible 
 El sitio está dividido en secciones que incluyen imágenes, enlaces de consulta e información complementaria que guían al usuario en la implementacion del proyecto.
 
 # Antes de comenzar...
-El proyecto fue desarrollado con la intención de que cualquier persona con minimos conocimientos de electronica y/o impresión 3D pueda implementarlo. Así todo, se recomienda leer detenidamente la información volcada en este sitio web y ante cualquier duda, comunicarse con los desarrolladores.
+El proyecto fue desarrollado con la intención de que cualquier persona con mínimos conocimientos de electrónica y/o impresión 3D pueda implementarlo. Así todo, se recomienda leer detenidamente la información volcada en este sitio web y ante cualquier duda, comunicarse con los desarrolladores.
 
 # Etapas del proyecto
 [![Motivación](./assets/img/boton1.jpg)](./01_motivacion.html)  [![Materiales necesarios](./assets/img/boton2.jpg)](02_materiales.html)  [![Planificación](./assets/img/boton3.jpg)](./03_planificacion.html)

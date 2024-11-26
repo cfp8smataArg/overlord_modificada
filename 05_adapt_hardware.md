@@ -8,12 +8,12 @@ filename: 05_adapt_hardware.md
 En la sección [Planificación](./03_planificacion.html), se retiraron las partes de la estructura que cubren y protegen el cableado y la electrónica de la impresora 3D. Esto se hizo con el objetivo de despejar las zonas por las que se modificará el cableado original, se cambiarán los sensores y la electrónica de control.
 
 Si la etapa de _Planificación_ fue realizada, la adaptación del hardware debe hacerse de forma ordenada, buscando que no exista ninguna confusión en el conexionado.
-Antes de empezar con la adaptación del hardware, es importante saber que, debido a la [geometría delta](https://reprap.org/wiki/Delta_geometry) de la impresora 3D, el equipo tiene mucha extensión de partes cableadas. Para entender la estructura general de este cableado es importante tener los siguientes puntos bien presentes:
+Antes de empezar con la adaptación del hardware, es importante saber que, debido a la [geometría delta](https://reprap.org/wiki/Delta_geometry) de la impresora 3D, el equipo tiene una gran extensión de partes cableadas. Para entender la estructura general de este cableado es importante tener los siguientes puntos bien presentes:
 
 ![estructura](./assets/img/estructura.JPG)
 
 * La alimentación eléctrica que proviene de la fuente de alimentación de 24v ingresa desde un lateral del compartimiento inferior de la impresora 3D, de la misma manera que en el esquema original.
-* Los motores de los tres ejes y del extrusor se encuentran en el compartimiento superior.
+* Los motores de los tres ejes se encuentran en el compartimiento inferior.
 * El final de carrera asociado a cada eje se ubica debajo de cada motor, sobre cada columna.
 
     ![final_carrera](./assets/img/ubicacion_final_carrera.jpg)
